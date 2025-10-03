@@ -10,6 +10,7 @@
 ### Как установить
 
 Для начала работы необходимо зарегистрироваться на [сайте](https://app.bitly.com/bbt2/) и сгенерировать токен [здесь](https://app.bitly.com/settings/apps/).
+![Alt text](https://i.postimg.cc/xjyZQjQc/bitlit-2.png)
 
 GENERIC ACCESS TOKEN — нужный тип токена. На сайте Bitly вы получите строку наподобие такой: 17c09e20ad155405123ac1977542fecf00231da7.
 
